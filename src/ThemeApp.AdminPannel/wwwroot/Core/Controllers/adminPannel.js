@@ -119,6 +119,7 @@
             vm.fileList2 = data;
             console.log(x.files[0]);
             vm.label2 = txt;
+            //end
         }
 
     }
